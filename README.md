@@ -8,8 +8,8 @@
 <br>
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabilov-chori&theme=react" width="70%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kabilov-chori&show_icons=true&hide_border=false&theme=react" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kabilov-chori&hide_border=true&border_radius=8&mode=weekly" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kabilov-chori&hide_border=true&border_radius=8" width="70%" />
 </div>
 
 ### Languages and Tools:
