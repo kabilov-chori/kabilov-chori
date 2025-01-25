@@ -1,14 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=.NET%20DEV&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=Kabilov-Chori&descSize=20&descAlign=18&descAlignY=58&animation=twinkling" />
 
-# Hi 👋, I'm Kabilov Chori
+## Hi 👋, I'm Kabilov Chori
 
-### A passionate .NET developer dedicated to solving real-world problems
+#### A passionate .NET developer dedicated to solving real-world problems
 
+<br>
 <br>
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabilov-chori" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kabilov-chori&show_icons=true&hide_border=false" width="46.25%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabilov-chori&theme=react" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kabilov-chori&show_icons=true&hide_border=false&theme=react" width="70%" />
 </div>
 
 ### Languages and Tools:
