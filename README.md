@@ -8,8 +8,8 @@
 <br>
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kabilov-chori&hide_border=true&border_radius=8&mode=weekly" alt="GitHub Streak" width="70%" />
   <img src="https://github-readme-stats.vercel.app/api?username=kabilov-chori&hide_border=true&border_radius=8" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kabilov-chori&hide_border=true&border_radius=8&mode=weekly" alt=" " width="70%" />
 </div>
 
 ### Languages and Tools:
